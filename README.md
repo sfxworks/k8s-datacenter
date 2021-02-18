@@ -6,7 +6,7 @@ The K8s-datacenter provides a **fully converged**, homogeneous information syste
 All storage, network switching/routing, compute operations are performed by kubernetes.
 
 
-# Provisioning
+## Provisioning
 
 1. Installer consumes install-config
 2. Values are written to ignition file
@@ -17,7 +17,7 @@ All storage, network switching/routing, compute operations are performed by kube
 7. Services become available as environment builds
 
 
-# Host
+## Host
 
 - Fedora CoreOS based 
 - In-memory
